@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 // import './App.css';
 import React from 'react';
-import reactcomp from './reactcomp';
+import reactcomp from './components/reactcomp';
 
 function App(){
 
